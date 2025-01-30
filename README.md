@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Evan Lucas
 
-# Your Github username
+# CaptainCookii
 
 # List the things you added for points
